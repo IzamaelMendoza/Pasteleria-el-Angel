@@ -133,10 +133,11 @@ Las contraseñas de los usuarios se almacenan utilizando hash seguro con passwor
 
 ## 📤 Autoría
 
-**Desarrollado por:**  
-Angel Israel 🧑‍💻  
-Maria Aurora 💗  
-Antonio Izamael 🐧
+**Desarrollado por:** 
+Antonio Izamael 
+Angel Israel  
+Maria Aurora   
+
 
 Proyecto académico realizado en 2025 para el curso de Ingeniería de Software.
 
